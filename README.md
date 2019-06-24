@@ -1,2 +1,3 @@
-# DevOps
-Learning Devops
+# maven-project
+
+Simple Maven Project
